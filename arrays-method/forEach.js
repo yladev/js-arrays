@@ -20,6 +20,7 @@ numbers.forEach(item => {
 })
 console.log(sum);
 
+// letters count
 export const letters = ['a', 'b', 'a', 'b', 'c', 'd', 'a'];
 
 let count = {};
